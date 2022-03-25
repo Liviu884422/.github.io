@@ -6,16 +6,16 @@ entries:
     created: "2022-03-25T10:50:37.238554474Z"
     dependencies:
     - name: pages-api
-      repository: https://liviu884422.github.io
+      repository: http://localhost:8080
       version: 1.x.x
     - name: mysql
-      repository: https://liviu884422.github.io
+      repository: http://localhost:8080
       version: 1.x.x
     description: A Helm chart for Pages Application
     digest: 6c08b24f5e0e8818f2227918768e0d55c99f8795259b1119b24d671a73e32850
     name: pages
     type: application
     urls:
-    - pages-1.0.0.tgz
+    - https://liviu884422.github.io/pages-1.0.0.tgz
     version: 1.0.0
 generated: "2022-03-25T10:50:37.234893125Z"
